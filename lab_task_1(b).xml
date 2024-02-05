@@ -1,0 +1,21 @@
+<admissions>
+<admission sr= "23">
+<name> john carter </name>
+<admission_date> 25 </admission_date>
+<admission_month> 12 </admission_month>
+<admission_year> 2015 </admission_year>
+
+</admission>
+<admission sr= "29">
+<name> bob marshal </name>
+<admission_date> 13</admission_date>
+<admission_month> 1 </admission_month>
+<admission_year> 1999 </admission_year>
+</admission>
+<admission sr= "35">
+<name> clark klent </name>
+<admission_date> 17 </admission_date>
+<admission_month> 6 </admission_month>
+<admission_year> 2005 </admission_year>
+</admission>
+</admissions>
